@@ -1,0 +1,2 @@
+# Lor
+Legends of Rust
